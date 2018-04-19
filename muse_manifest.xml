@@ -1,0 +1,47 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiranma.me" resolutions="1x,2x" timestamp="1509386490176">
+  <folder name="assets">
+    <file name="weiran_ma_resume_jul2017.pdf" crc="3966426215" seo="true" mt="1508902758000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4067636272" ref="index"/>
+    <file name="iefonts_index.css" crc="429544571" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="signature_ma_blk.png" crc="4148717366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-256.png" crc="4096616917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56479.svg" crc="4198763231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56479_poster_.png" crc="525739969" ref="index"/>
+    <file name="101021_email_512x512.png" crc="4122069222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-256_2x.png" crc="259428445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="101021_email_512x512_2x.png" crc="4261027279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cutmypic-crop-u192.png" crc="4153210330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cutmypic-crop-u192_2x.png" crc="3930166841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weiran-s-homepage-favicon.ico" crc="220059664" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4182564520" seo="true" mt="1509386438622" redirect="true"/>
+</manifest>

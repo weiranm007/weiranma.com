@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://weiranma.me/index.html</loc>
+    <lastmod>2017-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://weiranma.me/images/signature_ma_blk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/linkedin-256.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/56479.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/101021_email_512x512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/linkedin-256_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/101021_email_512x512_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/cutmypic-crop-u192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://weiranma.me/images/cutmypic-crop-u192_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://weiranma.me/assets/weiran_ma_resume_jul2017.pdf</loc>
+    <lastmod>2017-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
